@@ -19,7 +19,8 @@ Contains the MATLAB codes needed to perform Sobol index analysis and one-at-a-ti
 Sobol code was adapted with permission from (Yao 2021)
 
 **Figure generation:**
-Contains the MATLAB codes needed to generate Figures 3B, 3C, 3D, S2, S3
+Contains the MATLAB codes needed to generate Figures 3B, 3C, 3D, S2, S3.
+
 Figures S6 and S7 are generated in their respective codes, which are found in the Sensitivity Analysis folder
 
 **Raw data:**
