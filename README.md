@@ -3,28 +3,28 @@
 All code used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press). The code was developed primarily by Nicholas Keen, supervised by Jing Chen.
 
 **_in vitro_ fitting:**
-Contains the MATLAB codes needed to perform Genetic Algorithm fitting of the _in vitro_ data in (Baudoin, 2020) to our model
+Contains the MATLAB codes needed to perform Genetic Algorithm fitting of the _in vitro_ data in (Baudoin, 2020) to our model.
 
-_in vivo_ inference:
-Contains the R codes needed to perform Bayesian Inference with deBInfer (Boersch-Supan, 2017) with the tumor data generated in this paper
+**_in vivo_ inference:**
+Contains the R codes needed to perform Bayesian Inference with deBInfer (Boersch-Supan, 2017) with the tumor data generated in this paper.
 
-Required packages:
-- deBInfer
-- deSolve
-- coda
-- R.matlab
+Required R packages:
+- deBInfer (https://doi.org/10.1111/2041-210X.12679)
+- deSolve (https://doi.org/10.18637/jss.v033.i09)
+- coda (https://cran.r-project.org/web/packages/coda/index.html)
+- R.matlab (https://cran.r-project.org/web/packages/R.matlab/index.html)
 
 **Sensitivity analysis:**
-Contains the MATLAB codes needed to perform Sobol index analysis and one-at-a-time sensitivity analysis on our model
-Sobol code was adapted with permission from (Yao 2021)
+Contains the MATLAB codes needed to perform Sobol index analysis and one-at-a-time sensitivity analysis on our model.
+Sobol code was adapted with permission from (Yao 2021; https://doi.org/10.1371/journal.pcbi.1007842).
 
 **Figure generation:**
 Contains the MATLAB codes needed to generate Figures 3B, 3C, 3D, S2, S3.
 
-Figures S6 and S7 are generated in their respective codes, which are found in the Sensitivity Analysis folder
+Figures S6 and S7 are generated in their respective codes, which are found in the Sensitivity Analysis folder.
 
 **Raw data:**
-Contains the individual output files of each Bayesian Inference run
+Contains the individual output files of each Bayesian Inference run.
 
 **References**
 
