@@ -1,6 +1,6 @@
 # SBcents
 
-All code and used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press)
+All code used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press)
 
 _in vitro_ fitting:
 Contains the MATLAB codes needed to perform Genetic Algorithm fitting of the data in Baudoin et al., eLife, 2020 to our model
