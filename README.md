@@ -1,4 +1,4 @@
-# SBcents
+# cent-ploidy-evo
 
 All code used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press)
 
