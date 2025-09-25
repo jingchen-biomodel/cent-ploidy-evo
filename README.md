@@ -1,6 +1,6 @@
 # cent-ploidy-evo
 
-All code used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press)
+All code used in 'Oxidative stress and serum deprivation influence the evolution of newly formed tetraploid cells during tumorigenesis' by Sweet, Bloomfield, et al., PNAS (in press). The code was developed primarily by Nicholas Keen, supervised by Jing Chen.
 
 **_in vitro_ fitting:**
 Contains the MATLAB codes needed to perform Genetic Algorithm fitting of the _in vitro_ data in (Baudoin, 2020) to our model
