@@ -24,7 +24,7 @@ Contains the MATLAB codes needed to generate Figures 3B, 3C, 3D, S2, S3.
 Figures S6 and S7 are generated in their respective codes, which are found in the Sensitivity Analysis folder.
 
 **Raw data:**
-Contains the individual output files of each Bayesian Inference run.
+Contains the individual output files of each Bayesian Inference run, as well as Genetic algorithm outputs, Sobol analysis outputs, and post-processed inference outputs.
 
 **References**
 
